@@ -60,23 +60,23 @@ async def get_staff_members():
         return [
             StaffMember(
                 id="938782498144522251",
-                username="Staff Member 1",
+                username="Paperella (Developer)",
                 discriminator="0",
                 avatar=None,
                 status="online",
-                role="Admin"
+                role="Developer"
             ),
             StaffMember(
                 id="1009835584677740677",
-                username="Staff Member 2",
+                username="Missy",
                 discriminator="0",
                 avatar=None,
                 status="idle",
-                role="Moderator"
+                role="Owner"
             ),
             StaffMember(
                 id="1413553252946935990",
-                username="Staff Member 3",
+                username="EnolaSposata",
                 discriminator="0",
                 avatar=None,
                 status="online",
@@ -84,7 +84,7 @@ async def get_staff_members():
             ),
             StaffMember(
                 id="706233542924959873",
-                username="Staff Member 4",
+                username="OhNikx (creatore del sito)",
                 discriminator="0",
                 avatar=None,
                 status="dnd",
@@ -92,7 +92,7 @@ async def get_staff_members():
             ),
             StaffMember(
                 id="1356496295052972112",
-                username="Staff Member 5",
+                username="Ruan {Trial Staff}",
                 discriminator="0",
                 avatar=None,
                 status="offline",
