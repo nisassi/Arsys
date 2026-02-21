@@ -11,7 +11,6 @@ const Header = () => {
     { path: '/', label: 'Home' },
     { path: '/about', label: 'Chi Siamo' },
     { path: '/rules', label: 'Regole' },
-    { path: '/staff', label: 'Staff' },
     { path: '/reviews', label: 'Recensioni' },
     { path: '/faq', label: 'FAQ' },
     { path: '/events', label: 'Eventi' },
