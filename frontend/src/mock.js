@@ -10,10 +10,10 @@ export const serverData = {
     "Serate film, anime & eventi speciali",
     "Membri & staff accoglienti, gentili e super disponibili"
   ],
-  totalMembers: 1652,
-  realMembers: 1610,
-  bots: 42,
-  onlineMembers: 234,
+  totalMembers: 1715,
+  realMembers: 1676,
+  bots: 39,
+  onlineMembers: 650,
   discordInvite: "https://discord.gg/gHsFJjzkDd",
   socialLinks: {
     tiktok: "https://www.tiktok.com/@arsys_ds"
